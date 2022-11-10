@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Milo</h1>
-<h3 align="center">I'm a beginning programmer studying Applied Computer Science. I'm interested in Cyber Security and protecting Privacy online. The right to repair movement is also a huge motivator for me.</h3>
+<h1 align="center">Hi 👋</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=internetconsumer&label=Profile%20views&color=0e75b6&style=flat" alt="internetconsumer" /> </p>
 
